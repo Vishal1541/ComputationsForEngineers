@@ -1,0 +1,104 @@
+								
+											HELP
+		                                                         ====================================
+									   		
+This is to help the user to use the dictionary. Following are the methods to use our program:
+
+When you will open our program you will get: 				      
+										 Analyzing Data.....
+
+									     Wait for few seconds.....
+									---------------------------------
+
+A screen will popup showing following details:						     0.Help
+	                          				           1.Wild Cats               	    2.Dogs
+        	                    					   3.Rodents                	    4.Shrews
+                	             					   5.Civets                	    6.Mongoose
+      		        15. SHOW ALL ANIMALS/BIRDS IN DICTIONARY           7.Indian Wild Boar        	    8.Primates     16 . DIRECT SEARCH BY LETTER IN DICTIONARY
+                              					  	   9.Hares                          10.Deer	
+                          						   11.Bats                          12.Snakes
+				                               		   13.Lizards                       14.Toads
+
+
+----------------------------------------------
+16. (DIRECT SEARCH BY LETTER IN DICTIONARY)
+----------------------------------------------
+
+This tab is for searching the animals or birds by their name.
+This is for such user who knows the name of the animals or birds and want to see the details, just hit the number 1 and type the name.
+If the user is not sure about the name he/she just knows some part of the name, don't worry just type what you know and you will get the details.
+
+----------------------------------------------------------------------
+1,2,3,4,etc....(THESE ARE CATEGORIES OF DIFFERENT ANIMALS AND BIRDS)
+----------------------------------------------------------------------
+
+These tab will show all the animals and birds present in IIT Mandi.
+This is for such user who don't know the name of the animal or bird about whom
+he/she wants to know the details, but have some idea of their categories.                                
+Select from the above category and you will be getting the list of animals or birds.
+For example, if the user hit 1:
+
+					                         __,,,,_
+					          _ __..-;''`--/'/ /.',-`-.
+					      (`/' ` |  \ \ \\ / / / / .-'/`,_
+					     /'`\ \   |  \ | \| // // / -.,/_,'-,
+					    /<7' ;  \ \  | ; ||/ /| | \/    |`-/,/-.,_,/')
+					   /  _.-, `,-\,__|  _-| / \ \/|_/  |    '-/.;.\'
+					   `-`  f/ ;      / __/ \__ `/ |__/ |
+					        `-'      |  -| =|\_  \  |-' |
+					              __/   /_..-' `  ),'  //
+					             ((__.-'((___..-'' \__.'
+				1.List all the names of birds and animals of the chosen category.
+				2.Search by letters or words.
+
+
+When the user hit the desired category he/she will be getting two options which are shown above.
+
+	----------------------------------------------
+	1.List all the names of birds and animals of the chosen category.
+	---------------------------------------------- 
+	When the user hit 1, it will show all the animals or birds present in the category.
+	For example:
+	When the user hit 1:
+				1
+        			->LEOPARD
+        			2
+        			->CARACAL
+        			3
+        			->JUNGLE CAT
+	----------------------------------------------
+	2.Search by letters or words.
+	----------------------------------------------
+	This tab is for searching animals by their name in their categories.                                
+
+----------------------------------------------
+15. (SHOW ALL ANIMALS/BIRDS IN DICTIONARY)
+----------------------------------------------
+
+This tab will give the list of all animals and birds present in IIT Mandi.
+This is for them, who don't know anything about animals and birds present in IIT
+Mandi. Just hit 3 and check the list.
+When the user will hit 3 the list will be shown as shown below.
+
+                                1.Leopard
+                                2.Caracal
+                                3.Jungle Cat
+                                4.Indian Jackal
+                                5.Red Fox
+                                6.Tibetan Mastiff
+                                7.Black Cat
+                                  etc.
+
+Select from the above list and you will get the details.
+
+---------------------------------
+0. (Help)
+---------------------------------
+
+This tab is for help.
+When the user finds difficulty in handling the program, hit 0 and the help file will open.
+     
+                                                                                   
+========================================================================================================================================================================
+                                                                                THANK YOU 
+========================================================================================================================================================================
